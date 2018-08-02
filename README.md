@@ -1,4 +1,4 @@
 # ARatomy
 AR app to teach anatomy :D
 
-[Stil in dev]
+[Still in dev]
