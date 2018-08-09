@@ -2,5 +2,6 @@
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
     <ImageTarget name="ARatomyTarget_3" size="1.000000 0.707031" />
+    <ImageTarget name="main_noir_blanc" size="5.000000 6.666667" />
   </Tracking>
 </QCARConfig>
